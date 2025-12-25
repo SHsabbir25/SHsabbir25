@@ -1,34 +1,57 @@
-Undergraduate Student | Department Of Urban and Regional Planning| PUST, BD| President at PUST Youthmappers| QGIS| ArcGIS| Remote Sensing | GEE| Python | PyQGIS| Geospatial Analysis | ML| R | PTV VISSIM
+# Mohammad Sabbir Hossain Shah
+**Geospatial Engineer | Urban Planning Professional**
 
-### 🛠️ Tech Stack & Tools
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mohammad-sabbir-hossain-shah-817072209/)
+[![ORCID](https://img.shields.io/badge/ORCID-Publication-green?style=flat-square&logo=orcid)](https://orcid.org/0009-0001-8940-206X)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Active-orange?style=flat-square)](mailto:sabbir.shahh.258@gmail.com)
 
-| Category | Tools & Technologies |
+---
+
+### 🖋️ Executive Summary
+Professional Urban Planner with a deep specialization in **Geospatial Technologies** and **Data Analytics**. Currently driving spatial data initiatives at **RAJUK** and leading open-source mapping innovations as the Founding President of the **PUST YouthMappers** chapter. I focus on converting complex satellite imagery and urban datasets into actionable community insights.
+
+---
+
+### 🛠️ Strategic Skill Set
+
+| **Domain** | **Technologies & Tools** |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white) |
-| **GIS & RS** | ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white) **ArcGIS** | **Google Earth Engine** | **PyQGIS** |
-| **Data & ML** | **Machine Learning** | **Pandas** | **Matplotlib** | **Scikit-Learn** |
-| **Urban Tools** | **PTV VISSIM** | **OpenStreetMap** | **Remote Sensing** |
-| **Others** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
+| **Development** | Python (PyQGIS, Geopandas), SQL (PostGIS, DuckDB), R |
+| **Geospatial Intelligence** | QGIS, ArcGIS Pro, Google Earth Engine, Remote Sensing |
+| **Urban Modeling** | PTV VISSIM, Spatial Network Analysis, Land Use Forecasting |
+| **Data Science** | Machine Learning (Scikit-Learn), Data Visualization (Matplotlib, Seaborn) |
+| **Operations** | Git/GitHub, Project Management, OpenStreetMap (OSM) Ecosystem |
 
 ---
 
-### 📈 GitHub Stats
-![Sabbir's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=tokyonight)
+### 📊 Professional Focus & Research
+- **Urban Infrastructure:** Leveraging RS/GIS for sustainable infrastructure monitoring at RAJUK.
+- **Environmental Analytics:** Spatial modeling for sustainability projects at the Space and Environment Research Center (SERC).
+- **Community Governance:** Democratizing geospatial data access through global YouthMappers initiatives.
 
 ---
 
-### 🌟 Key Achievements
-- 🏆 Established the **PUST YouthMappers Chapter**, joining a global network of 400+ chapters.
-- 🎤 **Campus Ambassador** for State of the Map (SotM) Asia 2024.
-- 🛰️ Integrating ML with Geospatial Analysis for sustainable city infrastructure.
+### 🚀 Featured Technical Projects
+<!-- Change these links once you upload your projects -->
+- [**Satellite Imagery Classifier**](https://github.com/your-username/project1) - An ML-based approach to detecting urban sprawl using GEE.
+- [**SQL-Spatial-Architecture**](https://github.com/your-username/project2) - Advanced SQL queries for managing multi-million row urban datasets using DuckDB/PostgreSQL.
+- [**Urban-Traffic-Simulation**](https://github.com/your-username/project3) - Integration of PTV VISSIM data with Python for congestion analysis.
 
 ---
 
-### 📫 Let's Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/mohammad-sabbir-hossain-shah-817072209/)
-- 📧 [Email](mailto:sabbir.shahh.258@gmail.com)
-- 🆔 [ORCID](https://orcid.org/0009-0001-8940-206X)
+### 📈 GitHub Analytics
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=radical&hide_border=true" width="45%" />
+</p>
 
 ---
+
+### 🤝 Strategic Partnerships & Leadership
+- **Founding President**, PUST YouthMappers (International Network)
+- **Campus Ambassador**, State of the Map (SotM) Asia 2024
+- **Researcher**, SERC Geospatial Projects
+
+---
+**[Email Me](mailto:sabbir.shahh.258@gmail.com) • [LinkedIn](https://www.linkedin.com/in/mohammad-sabbir-hossain-shah-817072209/)**
 *“Democratizing access to geospatial data for a sustainable future.”*
