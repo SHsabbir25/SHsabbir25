@@ -1,18 +1,4 @@
-# 👋 Hi, I'm Mohammad Sabbir Hossain Shah
-
-### 🏙️ Urban Planner | Geospatial Data Scientist | Tech Community Leader
-
-I am a results-oriented Urban Planning professional specializing in the intersection of **Geospatial Technology**, **Data Science**, and **Sustainable Community Development**. My work focuses on leveraging Python, Machine Learning, and GIS platforms to solve complex urban challenges and drive innovation through open-source initiatives.
-
----
-
-### 🚀 Quick Overview
-- 🛠️ **Current Focus:** Interning at **RAJUK**, applying GIS & Remote Sensing to urban infrastructure projects.
-- 🎓 **Academic Background:** Bachelor of Urban and Regional Planning from PUST.
-- 🗺️ **Community Leadership:** Founding President of **PUST YouthMappers** (the 27th chapter in Bangladesh).
-- 🔬 **Research:** Supporting geospatial environmental research at the **Space and Environment Research Center (SERC)**.
-
----
+Undergraduate Student | Department Of Urban and Regional Planning| PUST, BD| President at PUST Youthmappers| QGIS| ArcGIS| Remote Sensing | GEE| Python | PyQGIS| Geospatial Analysis | ML| R | PTV VISSIM
 
 ### 🛠️ Tech Stack & Tools
 
