@@ -1,4 +1,4 @@
-# Mohammad Sabbir Hossain Shah
+# Mohammad(MD) Sabbir Hossain Shah
 **Geospatial Engineer | Urban Planning Professional**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mohammad-sabbir-hossain-shah-817072209/)
@@ -53,5 +53,5 @@ Professional Urban Planner with a deep specialization in **Geospatial Technologi
 - **Researcher**, SERC Geospatial Projects
 
 ---
-**[Email Me](mailto:sabbir.shahh.258@gmail.com) • [LinkedIn](https://www.linkedin.com/in/mohammad-sabbir-hossain-shah-817072209/)**
+**[Email Me](mailto:sabbir.shahh.258@gmail.com) • [LinkedIn](https://www.linkedin.com/in/mohammad-sabbir-hossain-shah-817072209/)**\
 *“Democratizing access to geospatial data for a sustainable future.”*
